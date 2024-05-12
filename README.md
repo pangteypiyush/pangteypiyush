@@ -1,3 +1,3 @@
-![stats](https://github-readme-stats.vercel.app/api?username=pangteypiyush&count_private=true&show_icons=true&theme=gruvbox)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=pangteypiyush&theme=transparent&hide_border=true&hide_progress=true)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangteypiyush&langs_count=6&layout=compact&theme=gruvbox)
+[![DWM](https://github-readme-stats.vercel.app/api/pin?username=pangteypiyush&theme=transparent&hide_border=true&repo=dwm)](https://github.com/pangteypiyush/dwm) [![dotfiles](https://github-readme-stats.vercel.app/api/pin?username=pangteypiyush&theme=transparent&hide_border=true&repo=dotfiles)](https://github.com/pangteypiyush/dotfiles)
